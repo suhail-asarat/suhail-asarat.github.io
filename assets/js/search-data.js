@@ -46,7 +46,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/5uhail", "_blank");
+          window.open("https://github.com/suhail-asarat", "_blank");
         },
       },{
         id: 'social-kaggle',
@@ -60,7 +60,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/mir-suhaila", "_blank");
+          window.open("https://www.linkedin.com/in/suhail-asarat", "_blank");
         },
       },{
         id: 'social-orcid',
