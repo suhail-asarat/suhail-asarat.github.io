@@ -13,8 +13,7 @@
   },
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint
-  // "postAttachCommand": "./bin/entry_point.sh",
-  // "postCreateCommand": "bundle exec jekyll serve",
+  "postAttachCommand": "./bin/entry_point.sh",
 
   "customizations": {
     "vscode": {
