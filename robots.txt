@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://suhail-asarat.github.io/sitemap.xml
+Sitemap: https://suhail.mir.bd//sitemap.xml
